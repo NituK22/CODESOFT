@@ -1,3 +1,4 @@
 # CODESOFT
 
 CALCULATOR : https://nituk22.github.io/CODESOFT/simple_calculator-main/
+LANDING PAGE: https://nituk22.github.io/CODESOFT/travel_landingpage/
