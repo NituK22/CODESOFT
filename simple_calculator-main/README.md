@@ -1,3 +1,3 @@
 # simple_calculator
 
-https://ambi-02.github.io/simple_calculator/
+https://nituk22.github.io/CODESOFT/simple_calculator-main/
